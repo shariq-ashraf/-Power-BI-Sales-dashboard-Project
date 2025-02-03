@@ -48,6 +48,9 @@ Payment Mode Analysis: What are the most preferred payment methods?
 
 6. Deployment & Sharing – Publish the dashboard for stakeholders to make data-driven decisions.
 
+## Dashboard
+![Metga Sales SS](https://github.com/user-attachments/assets/1cd1f35d-6268-4d35-9dd2-2caa0bfeb67d)
+
 ## Project Insights
 
 Sales & Profit Trends: Sales are highest in Q1 and Q4, while July shows a decline in profit.
